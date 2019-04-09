@@ -8,7 +8,7 @@
 | 3 | [Description](https://github.com/Vectrom/numerical_methods/blob/master/lab3/task.pdf) | [Solution](https://github.com/Vectrom/numerical_methods/blob/master/lab3/) | [Report](https://github.com/Vectrom/numerical_methods/blob/master/lab3/lab3_DamianPlociennik.pdf) |
 | 4 | [Description](https://github.com/Vectrom/numerical_methods/blob/master/lab4/task.pdf) | [Solution](https://github.com/Vectrom/numerical_methods/blob/master/lab4/) | [Report](https://github.com/Vectrom/numerical_methods/blob/master/lab4/lab4_DamianPlociennik.pdf) |
 | 5 | [Description](https://github.com/Vectrom/numerical_methods/blob/master/lab5/task.pdf) | [Solution](https://github.com/Vectrom/numerical_methods/blob/master/lab5/) | [Report](https://github.com/Vectrom/numerical_methods/blob/master/lab5/lab5_DamianPlociennik.pdf) |
-| 6 | [Description](https://github.com/Vectrom/numerical_methods/blob/master/lab6/task.pdf) | [Solution](https://github.com/Vectrom/numerical_methods/blob/master/lab6/) | soon |
+| 6 | [Description](https://github.com/Vectrom/numerical_methods/blob/master/lab6/task.pdf) | [Solution](https://github.com/Vectrom/numerical_methods/blob/master/lab6/) | [Report](https://github.com/Vectrom/numerical_methods/blob/master/lab6/lab6_DamianPlociennik.pdf) |
 | 7 | soon | soon | soon |
 | 8 | soon | soon | soon |
 | 9 | soon | soon | soon |
